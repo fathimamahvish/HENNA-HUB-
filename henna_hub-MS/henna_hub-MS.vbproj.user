@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BillForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUST-BOOKING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CUST-DETAILS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DESIGN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="feedback.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="REGISTER.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SUBMISSION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="summary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
